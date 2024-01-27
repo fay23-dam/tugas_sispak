@@ -1,0 +1,2 @@
+path/to/large/file.extension filter=lfs diff=lfs merge=lfs -text
+E:/sispak_kel_9/app/src/main/ml/sazara.tflite filter=lfs diff=lfs merge=lfs -text
