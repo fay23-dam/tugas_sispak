@@ -3,7 +3,7 @@
 
 Tugas uas sistem pakar dengan judul "Sistem Pakar diagnosa penyakit pada tanaman semangka menggunakan CNN berbasis android"
 
-![Deskripsi Gambar](<"./gambar.png"> "Judul Gambar")
+![Deskripsi Gambar](<"gambar.png"> "Judul Gambar")
 
 
 ## Contributing
